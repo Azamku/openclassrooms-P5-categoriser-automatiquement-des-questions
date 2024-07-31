@@ -10,10 +10,10 @@ alembic==1.13.1
 altair==5.3.0
 # anaconda-anon-usage==2.12.0
 # anaconda-catalogs==2.2.0
-anaconda-client==1.11.0
-anaconda-cloud-auth==1.2.0
-anaconda-navigator==2.2.0
-anaconda-project==0.10.1
+# anaconda-client==1.11.0
+# anaconda-cloud-auth==1.2.0
+# anaconda-navigator==2.2.0
+# anaconda-project==0.10.1
 aniso8601==9.0.1
 anyio==3.6.2
 appdirs==1.4.4
